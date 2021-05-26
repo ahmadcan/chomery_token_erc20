@@ -1,1 +1,1 @@
-# merchant_token_erc20
+# ERC20 Chomery Token
